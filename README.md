@@ -6,3 +6,4 @@ $ cd DOCKER_NGINX_PHP_MYSQL
 $ make start
 $ make stop
 ```
+http://localhost:1000
